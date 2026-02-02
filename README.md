@@ -123,7 +123,8 @@ A global state variable (`car_running`) enables instant start/stop functionality
 
 ## 📄 **Project Report (PDF – View Online):** 
 
-    - [Open Report](https://drive.google.com/file/d/1-sNcyEQqCZNq1aM6uA-QAq_4_puCXa--/view?usp=drive_link)
+  - [Open Report]
+- https://drive.google.com/file/d/1-sNcyEQqCZNq1aM6uA-QAq_4_puCXa--/view?usp=drive_link
 
 
 ## 👨‍💻 Author 
