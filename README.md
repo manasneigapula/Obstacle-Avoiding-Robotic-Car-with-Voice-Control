@@ -8,6 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Voice Control](https://img.shields.io/badge/Feature-Voice%20Control-blueviolet)
+[![Field](https://img.shields.io/badge/Focus-Electronics%20%26%20Communication-blue)](#)
 
 A semi-autonomous, voice-activated robotic car built using **Raspberry Pi 4B**, designed to intelligently navigate obstacles while remaining continuously responsive to user voice commands. The system uses a **non-blocking, multithreaded architecture** to ensure real-time decision-making, safe human interaction, and hands-free control.
 
