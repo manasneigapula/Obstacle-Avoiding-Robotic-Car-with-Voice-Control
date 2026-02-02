@@ -1,3 +1,6 @@
+
+# 🚗 Obstacle Avoiding Robotic Car with Voice Control (Raspberry Pi)
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-4B-c51a4a?logo=raspberrypi)
 ![Platform](https://img.shields.io/badge/Platform-Robotics-green)
@@ -5,8 +8,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Voice Control](https://img.shields.io/badge/Feature-Voice%20Control-blueviolet)
-
-# 🚗 Obstacle Avoiding Robotic Car with Voice Control (Raspberry Pi)
 
 A semi-autonomous, voice-activated robotic car built using **Raspberry Pi 4B**, designed to intelligently navigate obstacles while remaining continuously responsive to user voice commands. The system uses a **non-blocking, multithreaded architecture** to ensure real-time decision-making, safe human interaction, and hands-free control.
 
